@@ -1,7 +1,7 @@
 # MTR Network Diagnostics Mac – Advanced Network Troubleshooting Tool
 
 <div align="center">  
-<img src="https://static.macupdate.com/products/14414/m/mtr-logo.png" alt="MTR Logo" width="256" height="256">  
+<img src="https://static.vecteezy.com/system/resources/previews/031/399/935/non_2x/mtr-letter-logo-design-inspiration-for-a-unique-identity-modern-elegance-and-creative-design-watermark-your-success-with-the-striking-this-logo-vector.jpg" alt="MTR Logo" width="256" height="256">  
 </div>  
 
 <div align="center">  
